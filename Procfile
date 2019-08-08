@@ -1,1 +1,1 @@
-web: gunicorn banks.wsgi
+web: gunicorn api_crud.wsgi
