@@ -1,7 +1,7 @@
 django==4.2.16
 djangorestframework==3.11.2
 django-rest-auth==0.9.3
-django-allauth==0.39.1
+django-allauth==65.13.0
 dj-database-url==0.5.0
 django-heroku==0.3.1
 gunicorn==19.9.0
